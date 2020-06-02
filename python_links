@@ -1,0 +1,27 @@
+OpenCV Python in Anaconda:
+https://mathalope.co.uk/2015/05/07/opencv-python-how-to-install-opencv-python-package-to-anaconda-windows/
+
+Error:
+https://stackoverflow.com/questions/43184887/dll-load-failed-error-when-importing-cv2
+
+Executable in Python script:
+https://datatofish.com/executable-pyinstaller/
+
+Working directory in python:
+https://note.nkmk.me/en/python-os-getcwd-chdir/
+
+Get disk size:
+https://stackoverflow.com/questions/48929553/get-hard-disk-size-in-python
+
+Delete files in Python:
+https://www.dummies.com/programming/python/how-to-delete-a-file-in-python/
+
+Get process name and kill process:
+https://stackoverflow.com/questions/2940858/kill-process-by-name
+
+Passing command line from a file:
+https://stackoverflow.com/questions/4227994/how-do-i-use-the-lines-of-a-file-as-arguments-of-a-command
+https://realpython.com/python-command-line-arguments/
+
+10 tips Python:
+https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3 
